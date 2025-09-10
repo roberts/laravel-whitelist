@@ -2,9 +2,9 @@
 
 namespace Roberts\LaravelWhitelist;
 
+use Roberts\LaravelWhitelist\Commands\LaravelWhitelistCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Roberts\LaravelWhitelist\Commands\LaravelWhitelistCommand;
 
 class LaravelWhitelistServiceProvider extends PackageServiceProvider
 {
