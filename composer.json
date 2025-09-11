@@ -2,9 +2,9 @@
     "name": "roberts/laravel-whitelist",
     "description": "Laravel package for whitelist applications of tokens",
     "keywords": [
-        "Roberts",
-        "laravel",
-        "laravel-whitelist"
+        "web3",
+        "laravel package",
+        "whitelist"
     ],
     "homepage": "https://github.com/roberts/laravel-whitelist",
     "license": "MIT",
@@ -17,6 +17,7 @@
     ],
     "require": {
         "php": "^8.4",
+        "roberts/support": "^12.0",
         "spatie/laravel-package-tools": "^1.16",
         "illuminate/contracts": "^11.0||^12.0"
     },
